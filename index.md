@@ -14,8 +14,8 @@ Powertrain Engineer | Big Data Analyst
 
 `2010-2014`
 __Master of Engineering in General Engineering, Durham University.__
-Mechanical Engineering
-Electrical Engineering
+- Mechanical Engineering
+- Electrical Engineering
 
 ### Skills
 
