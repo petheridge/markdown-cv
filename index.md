@@ -22,7 +22,7 @@ Laws of motion, gravitation, minting coins, disliking [Robert Hooke](http://en.w
 
 ### Skills
 
-Cooling, power series, optics, alchemy, planetary motions, apples.
+Alteryx, Tableau, SQL, Python, 6-Sigma Blackbelt Trained, Matlab, Hadoop, Linux Command Line
 
 ## Occupation
 
