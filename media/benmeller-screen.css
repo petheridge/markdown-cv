@@ -100,7 +100,7 @@ ul {
 li:before {
 	content: "-";
 	position: relative;
-	left: -0.25em;
+	left: -0.05em;
 	color: #535150;
 }
 
