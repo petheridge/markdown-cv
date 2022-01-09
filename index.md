@@ -35,7 +35,8 @@ Such As:
 - The last drop was when I tried to update the overall look of my resume.
 - I ended up having to rearrange paragraphs and dates,
 - while making up obscure LaTeX macros just to move the years to a different place 
-or change the color of a particular element. hi
+or change the color of a particular element
+- hi
 
 
 `June 2019 - Present`
