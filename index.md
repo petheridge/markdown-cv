@@ -3,7 +3,7 @@ layout: cv
 title: Paul Etheridge's CV
 ---
 # Paul Etheridge
-Powertrain Engineer
+Powertrain Engineer | Big Data Analyst 
 
 <div id="webaddress">
 <a href="paul.etheridge@cwgsy.net">paul.etheridge@cwgsy.net</a>
@@ -13,12 +13,9 @@ Powertrain Engineer
 ## Education
 
 `2010-2014`
-__Masters in General Engineering, Durham University.__
-- Mechanical, Electrical, Electronics
-
-### About
-
-Laws of motion, gravitation, minting coins, disliking [Robert Hooke](http://en.wikipedia.org/wiki/Robert_Hooke)
+__Master of Engineering in General Engineering, Durham University.__
+Mechanical Engineering
+Electrical Engineering
 
 ### Skills
 
@@ -27,24 +24,15 @@ Alteryx, Tableau, SQL, Python, 6-Sigma Blackbelt Trained, Matlab, Hadoop, Linux 
 ## Occupation
 
 `June 2019 - Present`
-__Panther OPD__, Ford Motor Company
+__Senior OPD Engineer - Panther EU Lead__, Ford Motor Company
 
-Job role description here, engine quality and product development. Etc 
+- Job role description here, engine quality and product development. Etc 
 
 Such As:
 - The last drop was when I tried to update the overall look of my resume.
 - I ended up having to rearrange paragraphs and dates,
 - while making up obscure LaTeX macros just to move the years to a different place 
 or change the color of a particular element
-
-
-
-
-`June 2019 - Present`
-__Senior OPD Engineer - Panther EU Lead__, Ford Motor Company
-
-- Leading projects
-- Big Data wrangling and analysis
 
 `June 2018 - June 2019`
 __Senior OPD Engineer - Puma Global__, Ford Motor Company
