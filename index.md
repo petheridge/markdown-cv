@@ -10,16 +10,19 @@ Powertrain Engineer | Big Data Analyst
 | <a href="https://www.linkedin.com/in/pretheridge/">my LinkedIn</a>
 </div>
 
+Experienced quality engineer looking for a role in digital transformation, big data analytics. Next generation of customer vehicle interaction, connected services.
+
 ## Education
 
 `2010-2014`
 __Master of Engineering in General Engineering, Durham University.__
-- Mechanical Engineering
-- Electrical Engineering
+
+Mechanical Engineering
+
+Electromechanics, Electronics, Nuclear Engineering, Applied Mechanics, Systems Modelling, Control and Signal Processing, Manufacturing, Thermodynamics, Fluid Mechanics and Turbomachinery
 
 ### Skills
-
-Alteryx, Tableau, SQL, Python, 6-Sigma Blackbelt Trained, Matlab, Hadoop, Linux Command Line
+Problem Solving, Communication, Alteryx, Tableau, SQL, Python, 6-Sigma Blackbelt Trained, Matlab, Hadoop, Linux Command Line
 
 ## Occupation
 
