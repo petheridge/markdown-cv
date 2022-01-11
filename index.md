@@ -3,13 +3,12 @@ layout: cv
 title: Paul Etheridge's CV
 ---
 # Paul Etheridge
-Powertrain Engineer | Big Data Analyst 
+Powertrain Engineer, Big Data Analyst 
 
 <div id="webaddress">
 <a href="paul.etheridge@cwgsy.net">paul.etheridge@cwgsy.net</a>
-| <a href="https://www.linkedin.com/in/pretheridge/">my LinkedIn</a>
-</div>
-
+| <a href="https://www.linkedin.com/in/pretheridge/">LinkedIn</a>
+</div>|23 Parker Drive, Langdon Hills, Basildon, SS16 5LG | 07516 883644
 
 Experienced and dynamic Quality Engineer with over 7 years service at Ford Motor Company, with roles varying on an international scale. With a keen eye for digital transformation, big data analytics and project management allowing demonstration of physical interaction systems and with a focus on warranty spend.
 
@@ -92,6 +91,7 @@ Regularly conducted Tremery assembly process reviews in person, for white alert 
 
 `September 2014 - September 2016`
 __Ford Graduate Programme__, Ford Motor Company
+
 Joining the product development graduate scheme from September 2014  to September 2016 during this time my position in the company consisted of various roles within the Powertrain department, including:
 - Gasoline On Board Diagnostics Calibration Engineer
 - Intake System Component Engineer
@@ -115,5 +115,3 @@ Wedding planning
 <!-- ### Footer
 
 Last updated: Jan 2022 -->
-
-
