@@ -10,6 +10,8 @@ Powertrain Engineer | Big Data Analyst
 | <a href="https://www.linkedin.com/in/pretheridge/">my LinkedIn</a>
 </div>
 
+Experienced and dynamic Quality Engineer with over 7 years service at Ford Motor Company, with roles varying on an international scale. With a keen eye for digital transformation, big data analytics and project management allowing demonstration of physical interaction systems and a focus on warranty spend.
+
 Experienced quality engineer looking for a role in digital transformation, big data analytics. Next generation of customer vehicle interaction, connected services.
 
 ## Education
@@ -21,7 +23,7 @@ Mechanical Engineering
 
 Electromechanics, Electronics, Nuclear Engineering, Applied Mechanics, Systems Modelling, Control and Signal Processing, Manufacturing, Thermodynamics, Fluid Mechanics and Turbomachinery
 
-### Skills
+### Key Skills
 Problem Solving, Communication, Alteryx, Tableau, SQL, Python, 6-Sigma Blackbelt Trained, Matlab, Hadoop, Linux Command Line
 
 ## Occupation
@@ -29,13 +31,21 @@ Problem Solving, Communication, Alteryx, Tableau, SQL, Python, 6-Sigma Blackbelt
 `June 2019 - Present`
 __Senior OPD Engineer - Panther EU Lead__, Ford Motor Company
 
-- Job role description here, engine quality and product development. Etc 
+2L EcoBlue Diesel Engine, all Ford Transit Powertrain ICE over 970K engines produced while in position.
 
-Such As:
-- The last drop was when I tried to update the overall look of my resume.
-- I ended up having to rearrange paragraphs and dates,
-- while making up obscure LaTeX macros just to move the years to a different place 
-or change the color of a particular element
+Responsibilities:
+- Injector Corrosion, complex system issue. resolved with material change, Cost x$ 
+- Big Data analysis, Connected vehicle usage, on board DTC, warranty claims. Hadoop cluster, advanced SQL queries. 
+- Failure rate projection, feeding into key business decisions. Timing belt failures.
+- LP EGR mesh Filter Blockage, cross functional team, resolution.
+- CCV Blockage, slow warmup & fix
+- Ranger CAC freeze, root cause, testing. Fix validation.
+- Application and management of 6-Sigma principles to identify in fix quality and systemic design issues.
+- Supervision of vehicle dealer warranty spends and applying data analysis platforms to monitor trends over time  
+- Forecasting 
+- Senior stakeholder management
+- Successful relationship management skills with stakeholders in engine plants and external suppliers on an international scale
+- Training and mentoring of colleagues using analytical platforms such as xxxxx
 
 `June 2018 - June 2019`
 __Senior OPD Engineer - Puma Global__, Ford Motor Company
@@ -78,14 +88,12 @@ __Intake System Component Engineer__, Ford Motor Company
 `September 2014 - April 2015`
 __Program Engineer – Fox Classic__, Ford Motor Company
 
-
 ## Interests
 IOT home automation  
 Micro controller, home made wifi hydrometer  
 Motorbike  
 Home brewing  
 3D Printing  
-Gardening
 
 <!-- ### Footer
 
