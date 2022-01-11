@@ -11,20 +11,28 @@ Powertrain Engineer | Big Data Analyst
 </div>
 
 
-Experienced and dynamic Quality Engineer with over 7 years service at Ford Motor Company, with roles varying on an international scale. With a keen eye for digital transformation, big data analytics and project management allowing demonstration of physical interaction systems and a focus on warranty spend.
+Experienced and dynamic Quality Engineer with over 7 years service at Ford Motor Company, with roles varying on an international scale. With a keen eye for digital transformation, big data analytics and project management allowing demonstration of physical interaction systems and with a focus on warranty spend.
 
 ## Education
 
 `2010-2014`
 __Master of Engineering in General Engineering, Durham University.__
-
-Mechanical Engineering with modules including:
-Electromechanics, Electronics, Nuclear Engineering, Applied Mechanics, Systems Modelling, Control and Signal Processing, Manufacturing, Thermodynamics, Fluid Mechanics and Turbomachinery
+Modules completed include:
+Mechanical Engineering, Electromechanics, Electronics, Nuclear Engineering, Applied Mechanics, Systems Modelling, Control and Signal Processing, Manufacturing, Thermodynamics, Fluid Mechanics and Turbomachinery
 
 ## Key Skills
-Problem Solving, Communication, Alteryx, Tableau, SQL, Python, 6-Sigma Blackbelt Trained, Matlab, Hadoop, Linux Command Line
+Problem Solving, Communication, Stakeholder and supplier management, Project management, Warranty spend management, Alteryx, Tableau, Power BI, SQL, Python, 6-Sigma Blackbelt Trained, Matlab, Hadoop, Linux Command Line
 
-## Occupation
+- Understanding of algorithms and appreciation of working with data
+- Strong critical thinking, problem-solving skills
+- Strong critical thinking, excellent communication skills, and ability to influence.
+- Machine learning and pattern recognition
+- Define business requirements for technical development based on analysis of data sets
+- Creative, positive, and helpful attitude; a team oriented, customer-centric working style
+- Innovative problem solver with the ability to quickly identify and understand issues
+- Passionate about data and using that data to improve & inform business decisions
+
+## Occupation History
 
 `June 2019 - Present`
 __Senior OPD Engineer - Panther EU Lead__, Ford Motor Company
@@ -47,7 +55,11 @@ Responsibilities:
 
 `June 2018 - June 2019`
 __Senior OPD Engineer - Puma Global__, Ford Motor Company
-
+Responsibilities:  
+- Lead for base engine quality for Puma engine family, produced at engine plants in the UK, South Africa, Thailand, Argentina and China for use in Ranger and Transit vehicles
+- Work closely with the engine plant manufacturing teams to highlight emerging issues and prioritise tasks for the team  
+- Use appropriate 6-sigma and 8D problem solving tools to resolve current production quality issues  
+- Close liaison with core engineering for root cause analysis and prevent recurrence.
 
 `June 2017 - June 2018`
 __OPD Quality - Turbocharger Systems Engineer__, Ford Motor Company
@@ -77,21 +89,28 @@ Outside of these role requirements I conducted a solo site visit to Delphi, Roma
 Regularly conducted Tremery assembly process reviews in person, for white alert issues and numerous containments for ECB process.
 
 
-`January 2016 - September 2016`
-__Gasoline On Board Diagnostics Calibration Engineer__, Ford Motor Company
 
-`April 2015 - January 2016`
-__Intake System Component Engineer__, Ford Motor Company
+`September 2014 - September 2016`
+__Ford Graduate Programme__, Ford Motor Company
+Joining the product development graduate scheme from September 2014  to September 2016 during this time my position in the company consisted of various roles within the Powertrain department, including:
+- Gasoline On Board Diagnostics Calibration Engineer
+- Intake System Component Engineer
+- Program Engineer – Fox Classic
 
-`September 2014 - April 2015`
-__Program Engineer – Fox Classic__, Ford Motor Company
+These rotations were completed over 9 month secondment and included the following responsibilities:
+- 1
+- 2
+- 3
+- 4
+- 5
 
 ## Interests
 IOT home automation  
 Micro controller, home made wifi hydrometer  
 Motorbike  
 Home brewing  
-3D Printing  
+3D Printing
+Wedding planning
 
 <!-- ### Footer
 
