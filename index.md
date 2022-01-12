@@ -6,8 +6,9 @@ title: Paul Etheridge's CV
 Powertrain Engineer, Big Data Analyst 
 
 <div id="webaddress">
-<a href="paul.etheridge@cwgsy.net">paul.etheridge@cwgsy.net</a>
-| <a href="https://www.linkedin.com/in/pretheridge/">LinkedIn</a> | 23 Parker Drive, Langdon Hills, Basildon, SS16 5LG | 07516 883644</div>
+<a href="https://www.linkedin.com/in/pretheridge/">LinkedIn</a> | <a href="paul.etheridge@cwgsy.net">paul.etheridge@cwgsy.net</a>
+ </div> 
+23 Parker Drive, Langdon Hills, Basildon, SS16 5LG | 07516 883644
 
 Experienced and dynamic Quality Engineer with over 7 years service at Ford Motor Company, with roles varying on an international scale. With a keen eye for digital transformation, big data analytics and project management allowing demonstration of physical interaction systems and with a focus on warranty spend.
 
@@ -114,3 +115,5 @@ Wedding planning
 <!-- ### Footer
 
 Last updated: Jan 2022 -->
+
+
