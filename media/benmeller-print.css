@@ -101,12 +101,14 @@ li:before {
 	content: "-";
 	position: relative;
 	left: -0.25em;
+	color: #535150;
 }
 
 li {
 	/*second line indent*/
-	padding-left: 1.25em;
+	padding-left: 0.25em;
 	/* text-indent: -1.25em; */
+	color: #535150;
 }
 
 li ul {
@@ -114,8 +116,8 @@ li ul {
 	left: 0;
 	width: 82%;
 	margin-top: 0.25em;
+	color: #535150;
 }
-
 h1,h2,h3,h4 {
 	font-weight: 400;
 	font-family: Avenir,Cousine,Verdana,sans-serif;
