@@ -28,7 +28,7 @@ Problem Solving, Communication, Stakeholder and supplier management, Project man
 - Define business requirements for technical development based on analysis of data sets
 - Creative, positive, and helpful attitude; a team oriented, customer-centric working style
 - Innovative problem solver with the ability to quickly identify and understand issues
-- Passionate about data and using that data to improve & inform business decisions
+- Passionate about data and using that data to improve & inform business decision
 
 ## Occupation History
 
